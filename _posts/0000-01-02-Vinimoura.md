@@ -1,5 +1,4 @@
 ---
-layout: slide
 Title: "Welcome !!!"
 ---
 A New Day has come
